@@ -1,0 +1,20 @@
+package ru.geekbrains.core.lesson4.task3;
+
+public class LoadFileProcessException extends Exception{
+    private final int line;
+    private final String data;
+
+    public LoadFileProcessException(String message, int line, String data) {
+        super(message);
+        this.line = line;
+        this.data = data;
+    }
+
+    public int getLine() {
+        return line;
+    }
+
+    public String getData() {
+        return data;
+    }
+}

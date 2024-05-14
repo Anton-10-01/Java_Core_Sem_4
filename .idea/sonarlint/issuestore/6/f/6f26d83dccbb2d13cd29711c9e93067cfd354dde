@@ -1,0 +1,10 @@
+
+W
+java:S11416"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ã±Ç‹÷1
+a
+java:S2147?"DCombine this catch with the one at line 61, which has the same body.(ï­£Ä8æ±Ç‹÷1
+f
+java:S2147U"DCombine this catch with the one at line 82, which has the same body.(ñ“Š±üÿÿÿÿ8ñ±Ç‹÷1
+„
+java:S4087P"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ÄËªŸÿÿÿÿÿ8ò±Ç‹÷1
+X	java:S125J"<This block of commented-out lines of code should be removed.(ë¼û8ÕŒÓ‹÷1
